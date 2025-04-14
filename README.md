@@ -9,8 +9,8 @@ Files
 The trained model achieved an accuracy of approximately 97.5% on the test data.
 
 Features
-Text Cleaning and Preprocessing: Removes punctuation, stopwords, and performs lemmatization.
-Feature Extraction: Uses TF-IDF Vectorization to convert text to numerical form.
-Model Training: Trained on a Multinomial Naive Bayes classifier or the best performing model from comparison.
-Evaluation Metrics: Includes accuracy, precision, recall, F1-score, and confusion matrix.
-Model Persistence: Saves the trained model using pickle for future use.
+- Text Cleaning and Preprocessing: Removes punctuation, stopwords, and performs lemmatization.
+- Feature Extraction: Uses TF-IDF Vectorization to convert text to numerical form.
+- Model Training: Trained on a Multinomial Naive Bayes classifier or the best performing model from comparison.
+- Evaluation Metrics: Includes accuracy, precision, recall, F1-score, and confusion matrix.
+- Model Persistence: Saves the trained model using pickle for future use.
